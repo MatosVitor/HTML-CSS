@@ -3,4 +3,4 @@
 
  Criando sites e gerenciando repositórios!
 
- <a href=""https://github.com/MatosVitor/projects/tree/main/04>Abrir o site</a>
+ <a href="https://matosvitor.github.io/projects/">Abrir o site</a>
